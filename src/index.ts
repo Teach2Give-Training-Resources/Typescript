@@ -15,6 +15,7 @@ import accessModifiers from "./OOP/2-access-modifiers";
 import Inheritance from "./OOP/3-inheritance";
 import Polymorphism from "./OOP/4-Polymorphism";
 import Encapsulation from "./OOP/5-Encapsulation";
+import banksystem from "./OOP/banksystem";
 
 
 const commonjsimport = require("./ES6/3-commonjsexports");
@@ -42,7 +43,7 @@ const commonjsimport = require("./ES6/3-commonjsexports");
 
 // commonjsimport();
 
-typecasting();
+// typecasting();
 
 
 
@@ -51,6 +52,8 @@ typecasting();
 
 
 
+
+banksystem()
 
 
 

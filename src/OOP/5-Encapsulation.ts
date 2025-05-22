@@ -32,6 +32,8 @@ const Encapsulation = () => {
     }
 
     const person = new Person("John", 30);
+    //console.log(person.age); //Property 'age' is private and only accessible within class 'Person'.
+    //console.log(person.name); //Property 'name' is private and only accessible within class 'Person'.
     console.log(person.getName()); // Output: John
     console.log(person.getAge()); // Output: 30
 
