@@ -1,6 +1,7 @@
 import variables from "./1-variables";
 import typecasting from "./11. type-casting";
 import controlStatments from "./12-controlStatement";
+import tsLoops from "./13-loops";
 import specialTypes from "./2-special-types";
 import objectsArraysTuples from "./3-objects-arrays";
 import typeAlliances from "./4-type-alliances";
@@ -39,14 +40,20 @@ import Encapsulation from "./OOP/5-Encapsulation";
 // Polymorphism();
 // Destructuring();
 // spreadRest()
+
+
+
 // commonjsimport();
 
 // typecasting();
+
 // console.log("Hello World");
 
 // banksystem()
 
-controlStatments();
+// controlStatments();
+
+tsLoops();
 
 
 
