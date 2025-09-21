@@ -1,5 +1,6 @@
 import variables from "./1-variables";
 import typecasting from "./11. type-casting";
+import controlStatments from "./12-controlStatement";
 import specialTypes from "./2-special-types";
 import objectsArraysTuples from "./3-objects-arrays";
 import typeAlliances from "./4-type-alliances";
@@ -15,10 +16,10 @@ import accessModifiers from "./OOP/2-access-modifiers";
 import Inheritance from "./OOP/3-inheritance";
 import Polymorphism from "./OOP/4-Polymorphism";
 import Encapsulation from "./OOP/5-Encapsulation";
-import banksystem from "./OOP/banksystem";
+// import banksystem from "./OOP/banksystem";
 
 
-const commonjsimport = require("./ES6/3-commonjsexports");
+// const commonjsimport = require("./ES6/3-commonjsexports");
 
 
 // variables();
@@ -38,22 +39,14 @@ const commonjsimport = require("./ES6/3-commonjsexports");
 // Polymorphism();
 // Destructuring();
 // spreadRest()
-
-
-
 // commonjsimport();
 
 // typecasting();
-
-
-
-
 // console.log("Hello World");
 
+// banksystem()
 
-
-
-banksystem()
+controlStatments();
 
 
 
